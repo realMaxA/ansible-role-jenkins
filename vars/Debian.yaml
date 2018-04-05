@@ -13,4 +13,4 @@
 # under the License.
 ---
 __jenkins_build_depends:
-  - openjdk-7-jdk
+  - openjdk-8-jdk
