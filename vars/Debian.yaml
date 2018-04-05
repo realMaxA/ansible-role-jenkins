@@ -12,5 +12,8 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 ---
+__jenkins_repo_url: deb https://pkg.jenkins.io/debian binary/
+__jenkins_repo_key_url: https://pkg.jenkins.io/debian/jenkins.io.key
+
 __jenkins_build_depends:
   - openjdk-8-jdk
